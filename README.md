@@ -1,4 +1,4 @@
-# Sample Zero knowledge Proofs with Circom,Snarkks and Solidity
+# Sample Zero knowledge Proofs with Circom,Snarkjs and Solidity
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
